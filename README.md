@@ -13,5 +13,5 @@
 
 ### Ways To Contact Me:
 - Email: mhmhsin1385@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/mohammad-mousavi-568329373/)
-- Telegram: (https://t.me/Mohammad_dev98/)
+- LinkedIn: https://www.linkedin.com/in/mohammad-mousavi-568329373/
+- Telegram: https://t.me/Mohammad_dev98/
